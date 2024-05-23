@@ -59,7 +59,7 @@ class ArrQu {
 
 class QuickSortTest {
     public static void main(String[] args) {
-        int maxSize = 35000;
+        int maxSize = 50000;
         ArrQu arr = new ArrQu(maxSize);
 
         for (int i = 0; i < maxSize; i++) {
